@@ -16,7 +16,7 @@ import {IonicPage, NavController, NavParams} from 'ionic-angular';
 export class BatteryProductsPage {
 
   products = [
-    {name: "Solar LED Lantern",imageUrl: "",ProductDesc:"Solar LED LAntern is an emergency light which gives light equal to an 8W CFL bulb.\n" +
+    {name: "Lithium ION Batteies",imageUrl: "",ProductDesc:"Solar LED LAntern is an emergency light which gives light equal to an 8W CFL bulb.\n" +
     "It is portable,light weight, sturdy and looks like a traditional lantern.",
       list: [
         {text: "Using latest Li-ion battery technology."},
@@ -30,7 +30,7 @@ export class BatteryProductsPage {
 
       ]
     },
-    {name: "Solar Street Light",imageUrl: "",ProductDesc:"It comes with Li-ion battery which can be fitted just below the solar panel and has a long life of 5 years battery, solar panel. (less than 2 kgs) and gets charged within 5 hours during day light. Battery can be upgraded to 36 hrs or more depending on the requirement.",
+    {name: "Lithium ION Batteries with Excloser",imageUrl: "",ProductDesc:"It comes with Li-ion battery which can be fitted just below the solar panel and has a long life of 5 years battery, solar panel. (less than 2 kgs) and gets charged within 5 hours during day light. Battery can be upgraded to 36 hrs or more depending on the requirement.",
       list: [
         {}
       ]

@@ -30,9 +30,10 @@ export class ProductsDetailPage {
     this.info = this.navParams.get('data');
     this.name = this.info.name;
     this.desc = this.info.ProductDesc;
-    this.image = this.info.image;
+    this.image = this.info.imageUrl;
     this.lists = this.info.list;
     // console.log(this.info.list);
+    console.log(this.image);
   }
 
   Enquiry(data){
